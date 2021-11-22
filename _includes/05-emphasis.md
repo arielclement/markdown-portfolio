@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I don't have any awesome attribute, but I am willing to learn the things I need to become a _**Software Developer**_ 💻
