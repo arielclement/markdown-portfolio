@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Food
+   1. Ox-tail soup
+   2. Lamb skewer
+   3. Pizza 🍕
+2. Games
+   1. Kingdom Hearts
+   2. e-Football
+   3. Final Fantasy
